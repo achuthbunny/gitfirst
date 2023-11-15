@@ -1,2 +1,4 @@
 this is a sample for git. 
 This is bunnny line.
+this is a sample for git.
+This is another line added.
