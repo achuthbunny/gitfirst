@@ -1,1 +1,2 @@
 This is a story of my life. It has to be example to everyone.
+This is --amend demo.
